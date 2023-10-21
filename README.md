@@ -9,6 +9,7 @@ Conforme al resultado que te dé el endpoint, maneja el arreglo de pokemones, y 
 
 ## Requisitos
 
+- Crear un fork de este repositorio y trabajar en él. [fork-guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - Utilizar React con Vite y TypeScript. [vite-guide](https://vitejs.dev/guide/)
 - Utilizar Fetch para las peticiones HTTP. [fetch-API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
 - Utilizar GRID y auto-fit para ajustar las columnas del listado de pokemones automáticamente.
