@@ -16,3 +16,7 @@ Conforme al resultado que te dé el endpoint, maneja el arreglo de pokemones, y 
 
 - NO utilizar librerías o frameworks de CSS
 - NO utilizar preprocesadores de CSS
+
+## Sugerencias
+
+- Utilizar los sprites divertidos de la versión "dream_world".
